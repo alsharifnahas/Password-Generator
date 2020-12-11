@@ -13,7 +13,7 @@ There are several screenshots that was taken. Those images are available in the 
 ![Website Screenshot 4](Assets/Images/screen-shot4.PNG)
 ![Website Screenshot 5](Assets/Images/screen-shot5.PNG)
 
-**Note**: This a link to the actual website: [Password-Generator Official Website](https://alsharifnahas.github.io/Horiseon/.)
+**Note**: This a link to the actual website: [Password-Generator Official Website](https://alsharifnahas.github.io/Password-Generator/.)
 
 ## Liecense
 
